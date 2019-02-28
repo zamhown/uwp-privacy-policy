@@ -1,0 +1,1 @@
+# uwp-privacy-policy
